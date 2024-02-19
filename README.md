@@ -55,6 +55,8 @@ Backend component of the Picto system developed for Galantucci-style language wo
 
 **Source:** [github.com/mikolaj-martyna/picto-backend](https://github.com/mikolaj-martyna/picto-backend)
 
+---
+
 #### 🎮 Roguelike
 Developed for a university class, this is a Java-based roguelike game including procedural world generation, multiple versions of monster AI, an equipment system with items and consumables, and enemies of varying levels of difficulty.
 
