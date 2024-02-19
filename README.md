@@ -1,7 +1,7 @@
-### About me
+## About me
 I'm Nick, a student with a passion for problem solving and thriving in the realm of difficult challenges. I love the world of coding, constantly exploring and learning to create innovative solutions.
 
-#### 🔧 Tech stack
+### 🔧 Tech stack
 I specialize in Java development, leveraging the Spring framework and Hibernate for robust backend solutions. Proficient in various database systems, I deploy applications using Docker on Linux environments, and I manage version control with Git.
 
 ###### Languages and frameworks  
@@ -35,8 +35,8 @@ I specialize in Java development, leveraging the Spring framework and Hibernate 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-### Projects
-#### 🖼️ Picto
+## Projects
+### 🖼️ Picto
 Backend component of the Picto system developed for Galantucci-style language workshops for school children. It uses REST API for effective communication and scalability.
 
 **Technologies used**
@@ -55,9 +55,7 @@ Backend component of the Picto system developed for Galantucci-style language wo
 
 **Source:** [github.com/mikolaj-martyna/picto-backend](https://github.com/mikolaj-martyna/picto-backend)
 
----
-
-#### 🎮 Roguelike
+### 🎮 Roguelike
 Developed for a university class, this is a Java-based roguelike game including procedural world generation, multiple versions of monster AI, an equipment system with items and consumables, and enemies of varying levels of difficulty.
 
 **Technologies used**
